@@ -1,0 +1,43 @@
+DeFi Platform Case Study
+
+Objective: The objective of this assignment is to introduce students to the world of decentralized finance (DeFi) and deepen their understanding of prominent DeFi protocols or platforms. By researching and analyzing a specific DeFi platform, students will gain insights into its core functionality, governance mechanisms, and token economics, as well as its broader impact on the DeFi ecosystem.
+
+Assignment Description:
+
+In this assignment, students will select a well-known DeFi protocol or platform of their choice, such as Uniswap, Compound, MakerDAO, Aave, or others. They will conduct research to thoroughly understand the chosen platform, its core features, governance structure, and the role of its native tokens. Students will then prepare a presentation or report to present their findings, shedding light on how the platform operates, its significance in the DeFi space, and any recent developments or updates.
+
+Instructions:
+
+Select a DeFi Platform:
+
+Instruct students to choose one DeFi platform or protocol that interests them.
+Provide a list of popular DeFi platforms or allow students to select one independently.
+Research and Analysis:
+
+Task students with conducting comprehensive research on the chosen DeFi platform, covering the following aspects:
+Core Functionality: Explain what the platform does, its primary use cases, and how users interact with it.
+Governance Mechanisms: Describe how decision-making and governance are structured within the platform's ecosystem.
+Token Economics: Explore the role of native tokens (if applicable), including their utility, staking, and rewards mechanisms.
+Recent Developments: Highlight any noteworthy updates, partnerships, or changes related to the platform.
+Presentation or Report:
+
+Students should prepare a presentation or a written report to present their findings.
+Encourage students to use visuals, diagrams, and data to enhance their presentation/report.
+Platform Impact and Significance:
+
+Ask students to discuss the platform's impact on the DeFi ecosystem.
+Encourage them to reflect on how the platform contributes to the broader goal of decentralized finance.
+Recent Developments:
+
+Include a section in the presentation/report where students discuss any recent developments or updates related to the platform.
+Submission:
+
+Students should submit their presentation slides or written report following the assignment submission guidelines.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Depth of research and analysis of the chosen DeFi platform.
+Clarity and quality of the presentation or report, including visuals and data.
+Insightful discussion of the platform's core functionality, governance, and token economics.
+Consideration of the platform's impact on the DeFi ecosystem and recent developments.

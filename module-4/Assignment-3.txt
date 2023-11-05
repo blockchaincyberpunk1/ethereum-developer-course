@@ -1,0 +1,44 @@
+DApp Development with Truffle and React
+
+Objective: The objective of this assignment is to enable students to build a complete decentralized application (DApp) using Truffle for Ethereum smart contract development and React for the front-end. By completing this assignment, students will gain hands-on experience in creating a DApp that interacts with Ethereum smart contracts.
+
+Assignment Description:
+
+In this assignment, students will initialize a new Truffle project, create a simple Ethereum smart contract with associated tests, and set up a React-based front-end for their DApp. They will connect the React front-end to the Ethereum smart contract using Web3.js for functionality like displaying contract data and making transactions. Additionally, students will deploy and demonstrate their DApp locally.
+
+Instructions:
+
+Truffle Project Setup:
+
+Instruct students to initialize a new Truffle project. They can choose a suitable project name and directory structure.
+Ask them to create a simple Ethereum smart contract within the Truffle project. The contract should include callable functions and emit events (if applicable).
+Require students to write comprehensive tests for their smart contract using Truffle's testing framework (e.g., Mocha and Chai).
+React Front-End Development:
+
+Task students with setting up a React-based front-end for their DApp. They should use Create React App or a similar tool for bootstrapping the project.
+Instruct them to design and build a user interface (UI) for interacting with the smart contract. The UI should include elements for user input and interaction.
+Encourage students to implement functionality in the React app to read data from the smart contract (using Web3.js) and trigger transactions based on user actions.
+Integration with Web3.js:
+
+Students should integrate their React front-end with the Ethereum smart contract using Web3.js. This includes initializing a Web3 instance and connecting it to the Ethereum network (e.g., Ganache for local development).
+They should implement JavaScript functions to interact with the smart contract's functions and listen to contract events.
+Testing and Deployment:
+
+Instruct students to thoroughly test their DApp to ensure that it functions correctly. This includes testing smart contract interactions from the React app.
+Encourage students to deploy their DApp locally for testing. They can use development networks like Ganache or a local Ethereum node.
+Demonstration:
+
+Require students to demonstrate the functionality of their DApp. They should showcase how users can interact with the smart contract through the UI, including reading data and making transactions.
+Students can record a video or provide screenshots to demonstrate their DApp.
+Submission:
+
+Students should submit their Truffle project, React codebase, and any additional assets required for their DApp.
+Include a document or README file with explanations and instructions for using their DApp.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the DApp, including smart contract interactions.
+Quality and usability of the React-based UI.
+Thorough testing and demonstration of the DApp's functionality.
+Clarity and completeness of the submission, including explanations and instructions.

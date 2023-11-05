@@ -1,0 +1,43 @@
+Web3.js and Smart Contract Interaction
+
+Objective: The objective of this assignment is to develop students' skills in using Web3.js for Ethereum smart contract interactions. By building a simple decentralized application (DApp), students will gain hands-on experience in calling smart contract functions and creating a user interface (UI) for users to interact with the contract.
+
+Assignment Description:
+
+In this assignment, students will work with a simple Ethereum smart contract that has callable functions. They will write JavaScript code using Web3.js to interact with the smart contract, including calling functions and sending transactions. Additionally, students will create a web-based user interface (UI) that allows users to interact with the smart contract through their DApp.
+
+Instructions:
+
+Smart Contract Selection:
+
+Provide students with a simple Ethereum smart contract that has callable functions. You can provide a sample contract or let them choose from a list of predefined contracts.
+Interacting with the Smart Contract:
+
+Instruct students to write JavaScript code using Web3.js to interact with the selected smart contract.
+Ask them to implement the following interactions (as applicable to the chosen contract):
+Calling read-only functions to retrieve data from the contract.
+Calling functions that modify the contract's state and require sending transactions.
+Handling transaction receipts and events emitted by the contract.
+User Interface (UI) Development:
+
+Require students to create a web-based UI for their DApp. They can use HTML, CSS, and JavaScript to design and build the UI.
+The UI should include elements that allow users to input data (if required), trigger contract interactions (e.g., button clicks), and display the results or transaction status.
+Integration with Web3.js:
+
+Students should integrate their Web3.js code from step 2 with the UI they developed in step 3. The UI should communicate with the Ethereum blockchain using Web3.js to perform contract interactions.
+Testing and Demonstration:
+
+Instruct students to thoroughly test their DApp to ensure that it functions correctly.
+Ask them to provide screenshots or a video demonstration of their DApp in action. They should showcase how users can interact with the smart contract through the UI.
+Submission:
+
+Students should submit their JavaScript code, HTML/CSS files, and any additional assets required for their DApp.
+Include a document or README file with explanations and instructions for using their DApp.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the Web3.js code for smart contract interactions.
+Quality and usability of the web-based UI.
+Thorough testing and demonstration of the DApp's functionality.
+Clarity and completeness of the submission, including explanations and instructions.

@@ -1,0 +1,37 @@
+Ethereum Documentation Review
+
+Objective: The objective of this assignment is to emphasize the importance of staying informed and well-versed in Ethereum's official documentation, including Ethereum Improvement Proposals (EIPs) and the Ethereum Yellow Paper.
+
+Assignment Description:
+
+In this assignment, students will dive into the official Ethereum documentation to explore Ethereum Improvement Proposals (EIPs) or sections of the Ethereum Yellow Paper. By reviewing these documents, students will gain a deeper understanding of Ethereum's technical specifications, proposed upgrades, and fundamental concepts.
+
+Instructions:
+
+Documentation Selection:
+
+Provide students with a list of Ethereum Improvement Proposals (EIPs) or sections of the Ethereum Yellow Paper that cover various aspects of the Ethereum network. Ensure that the options cover topics such as consensus mechanisms, smart contracts, scalability solutions, or upcoming upgrades.
+Instruct students to choose one EIP or a section of the Yellow Paper that interests them the most. They should select a document that aligns with their areas of curiosity within Ethereum development.
+Document Review:
+
+Task students with thoroughly reviewing the selected document. They should read it carefully, paying attention to technical details, explanations, and any proposed changes or improvements.
+Encourage them to take notes and highlight key points, equations, or sections that are particularly significant or challenging.
+Summary Report:
+
+Require students to create a summary report that includes the following:
+A brief introduction to the selected document, including its title, author, and context within the Ethereum ecosystem.
+A summary of the main technical concepts, ideas, or proposals presented in the document.
+An explanation of the significance of the document in the context of Ethereum development or its potential impact on the network.
+Any questions, concerns, or areas where further clarification is needed based on their review.
+Discussion:
+
+Depending on the class format, facilitate a class discussion where students can share their findings and insights from their document review.
+Encourage students to engage in discussions about the technical aspects, implications, and potential applications of the document's content.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+The quality and depth of the summary report, including the clarity of explanations.
+The ability to identify and summarize key technical concepts from the selected document.
+The reflection on the document's significance and potential impact on Ethereum.
+Active participation in class discussions if applicable.

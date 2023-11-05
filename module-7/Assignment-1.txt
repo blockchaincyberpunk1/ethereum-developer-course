@@ -1,0 +1,36 @@
+Ethereum Community Engagement
+
+Objective: The objective of this assignment is to actively involve students in the Ethereum developer community, fostering collaboration, and providing opportunities for knowledge exchange.
+
+Assignment Description:
+
+In this assignment, students will engage with the Ethereum developer community by participating in discussions on popular Ethereum developer forums or community platforms. They will have the opportunity to ask questions, provide answers, and share their insights related to Ethereum development.
+
+Instructions:
+
+Selecting a Platform:
+
+Instruct students to choose a popular Ethereum developer forum or community platform where they will participate. Some recommended options include Ethereum Stack Exchange, the Ethereum Community Discord server, or the Ethereum subreddit.
+Registration and Initial Observations:
+
+Task students with registering on their chosen platform and familiarizing themselves with the community guidelines, rules, and ongoing discussions.
+Encourage students to spend some time initially observing ongoing conversations and identifying topics of interest.
+Active Participation:
+
+Over a specified period (e.g., one week), students should actively participate in the community. They can do this by:
+Asking at least one thoughtful and well-researched question related to Ethereum development.
+Providing at least one helpful and informative response to another community member's question or discussion.
+Engaging in respectful and constructive discussions related to Ethereum development topics that interest them.
+Reflection Report:
+
+After the engagement period, require students to write a reflection report summarizing their experiences and interactions within the Ethereum developer community.
+In their reflection, students should describe the questions they asked or answered, any insights they gained from the discussions, and how their participation contributed to their understanding of Ethereum development.
+Encourage them to share any challenges they encountered and how they addressed them.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Active and meaningful participation in the Ethereum developer community, including asking and answering questions.
+Thoughtfulness and relevance of the questions and responses posted.
+Demonstrated adherence to community guidelines and respectful communication.
+The quality and depth of insights gained from community interactions as described in the reflection report.

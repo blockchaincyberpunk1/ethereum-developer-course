@@ -1,0 +1,45 @@
+Security Vulnerability Analysis in Smart Contracts
+
+Objective: The objective of this assignment is to familiarize students with common security vulnerabilities in smart contracts. By researching and analyzing a specific vulnerability, students will gain insights into the risks associated with smart contract development.
+
+Assignment Description:
+
+In this assignment, students will delve into the world of smart contract security vulnerabilities. They will choose a specific vulnerability from a provided list, research it in detail, and prepare a report or presentation explaining the vulnerability, how it can be exploited, and its potential consequences.
+
+Instructions:
+
+Select a Security Vulnerability:
+
+Provide students with a list of common smart contract vulnerabilities, including reentrancy, integer overflow/underflow, unauthorized access, etc.
+Instruct students to choose one vulnerability from the list to focus on for this assignment.
+Research and Analysis:
+
+Task students with conducting thorough research on the selected vulnerability. They should explore the following aspects:
+Explanation of the vulnerability: What it is and how it occurs.
+How the vulnerability can be exploited by an attacker.
+Real-world examples of smart contract breaches or hacks related to the chosen vulnerability.
+The potential impact on a smart contract, including financial losses or manipulation of contract behavior.
+Report or Presentation:
+
+Require students to prepare either a written report or an oral presentation summarizing their findings.
+The report or presentation should include:
+A clear explanation of the chosen vulnerability.
+A detailed description of how the vulnerability can be exploited.
+Real-world case studies or examples illustrating the consequences of the vulnerability.
+Any preventive measures or best practices to mitigate the risk of this vulnerability.
+Critical Analysis:
+
+Encourage students to critically analyze the chosen vulnerability and its implications for smart contract development.
+Ask students to consider the importance of security audits and best practices in preventing such vulnerabilities.
+Presentation (Optional):
+
+If students prepare presentations, organize a class presentation session where they can share their findings and insights with peers.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Selection of an appropriate smart contract security vulnerability.
+Depth and accuracy of research and analysis.
+Quality of the report or presentation, including clarity and organization.
+Critical thinking and thoughtful evaluation of the vulnerability's impact.
+Consideration of preventive measures and best practices.

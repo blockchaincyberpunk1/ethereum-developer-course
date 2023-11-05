@@ -1,0 +1,45 @@
+DApp Security Considerations
+
+Objective: The objective of this assignment is to raise awareness of security best practices in DApp development and familiarize students with common security vulnerabilities that DApps may face. By completing this assignment, students will gain insights into potential security threats and learn how to prevent or mitigate them.
+
+Assignment Description:
+
+In this assignment, students will research and choose a common security vulnerability in DApps (e.g., reentrancy attacks, front-running, oracles) to focus on. They will write a report or create a presentation explaining the chosen vulnerability, its impact on DApps, and best practices to prevent or mitigate it. Additionally, students should provide real-world examples of DApps that have faced security issues related to the chosen vulnerability.
+
+Instructions:
+
+Choose a Vulnerability:
+
+Instruct students to select one of the common security vulnerabilities associated with DApps. They can choose from vulnerabilities like reentrancy attacks, front-running, oracles, or any other relevant vulnerability.
+Encourage students to research and understand the chosen vulnerability thoroughly.
+Research and Analysis:
+
+Task students with conducting in-depth research on the chosen vulnerability. They should explore the following aspects:
+Explanation of the vulnerability and how it can be exploited.
+Real-world examples or case studies of DApps that have been affected by the vulnerability.
+Impact of the vulnerability on DApps, users, and the blockchain ecosystem.
+Best practices and preventive measures to secure DApps against the chosen vulnerability.
+Report or Presentation:
+
+Depending on the format chosen (report or presentation), students should structure their submission as follows:
+Title and introduction: Clearly state the chosen vulnerability and its significance.
+Vulnerability explanation: Explain the vulnerability in detail, including how it works and why it poses a threat to DApps.
+Real-world examples: Provide examples of DApps that have experienced security issues related to the chosen vulnerability.
+Impact assessment: Discuss the impact of the vulnerability on DApps, users, and the broader blockchain ecosystem.
+Best practices: Outline security best practices and measures that developers can implement to prevent or mitigate the vulnerability.
+Conclusion: Summarize key points and emphasize the importance of security in DApp development.
+References:
+
+Require students to include a list of references and sources used in their research.
+Presentation (Optional):
+
+If students choose to create a presentation, they should prepare a visual presentation (slides) to deliver their findings to the class.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Depth of research and understanding of the chosen vulnerability.
+Clarity and coherence of the report or presentation.
+Inclusion of real-world examples and case studies.
+Quality and relevance of security best practices and preventive measures.
+Overall presentation and communication of findings.

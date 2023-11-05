@@ -1,0 +1,41 @@
+Smart Contract Auditing Process
+
+Objective: The objective of this assignment is to familiarize students with the process of auditing smart contracts for security vulnerabilities. By conducting a basic security audit on a real smart contract, students will gain practical experience in identifying and assessing potential risks in Ethereum-based applications.
+
+Assignment Description:
+
+In this assignment, students will learn about the steps involved in the smart contract auditing process. They will choose a real smart contract (e.g., from a public repository like GitHub) and conduct a basic security audit on it. The audit process should include code review, vulnerability identification, and the generation of a comprehensive audit report.
+
+Instructions:
+
+Overview of the Smart Contract Auditing Process:
+
+Begin by providing students with an overview of the smart contract auditing process. Explain the importance of auditing and the steps involved, such as code review, vulnerability identification, and reporting.
+Select a Real Smart Contract:
+
+Instruct students to choose a real smart contract from a public repository (e.g., GitHub). The selected contract should be publicly available and related to Ethereum or blockchain development.
+Conduct a Security Audit:
+
+Task students with conducting a basic security audit on the chosen smart contract. They should follow these steps:
+Perform a thorough code review to understand the contract's functionality.
+Identify potential security vulnerabilities or risks within the code.
+Use established best practices and known security patterns to assess the contract's design and implementation.
+Document their findings, including details of identified vulnerabilities and their potential impact.
+Generate an Audit Report:
+
+Instruct students to create a comprehensive audit report that includes the following:
+An introduction to the audited smart contract, including its purpose and functionality.
+Detailed explanations of the identified security vulnerabilities or risks.
+The potential impact of each vulnerability on the contract's security.
+Recommendations and suggested fixes for addressing each vulnerability.
+Code snippets or pseudocode illustrating how vulnerabilities can be mitigated or fixed.
+Any additional observations or insights related to the contract's security.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Thoroughness of the code review and vulnerability identification.
+Clarity and depth of explanations in the audit report.
+Quality and feasibility of recommended fixes or mitigation strategies.
+Organization and presentation of the audit report.
+Demonstration of an understanding of the smart contract auditing process and security best practices.

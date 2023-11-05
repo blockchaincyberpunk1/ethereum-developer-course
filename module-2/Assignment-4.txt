@@ -1,0 +1,35 @@
+Functions in Solidity
+
+Objective: The objective of this assignment is to deepen students' understanding of functions in Solidity and reinforce their ability to create smart contracts with multiple functions, each with different access modifiers.
+
+Assignment Description:
+
+In this assignment, students will be tasked with creating a Solidity smart contract that incorporates multiple functions, each with varying access modifiers (public, private, internal, external). By designing and implementing this contract, students will gain practical experience in defining and using functions in Ethereum smart contracts.
+
+Instructions:
+
+Smart Contract Design:
+
+Instruct students to design a Solidity smart contract that includes at least three functions with different access modifiers (e.g., public, private, internal, external).
+Encourage students to choose functions that perform distinct tasks or operations within the contract. For example, they can create functions for data manipulation, access control, or contract interactions.
+Function Implementation:
+
+Ask students to implement each function in their contract, adhering to the specified access modifiers. Ensure that the functions have clear and meaningful names and that their behavior aligns with the function's purpose.
+Documentation:
+
+Require students to document their contract thoroughly. They should provide comments that explain the purpose, parameters, return values (if any), and expected behavior of each function. This documentation should make it easy for others to understand and use the contract.
+Testing and Deployment:
+
+Instruct students to deploy their smart contract on a local Ethereum testnet, such as Ganache.
+Encourage students to interact with their deployed contract using Remix IDE or a similar development environment. They should test each function and verify that it behaves as documented.
+Submission:
+
+Students should submit their Solidity smart contract code along with the comprehensive comments and explanations they have added to the code.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Correct implementation of functions with the specified access modifiers.
+Clarity and quality of comments and explanations in the code.
+Adherence to best practices in smart contract development.
+Successful deployment and testing of the contract on a local Ethereum testnet.

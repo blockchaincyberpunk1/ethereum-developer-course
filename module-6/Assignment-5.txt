@@ -1,0 +1,41 @@
+Secure Coding Guidelines
+
+Objective: The objective of this assignment is to empower students to create a comprehensive set of secure coding guidelines for Ethereum smart contract development. By establishing best practices for secure coding, students will be better prepared to write robust and secure smart contracts.
+
+Assignment Description:
+
+In this assignment, students will develop a set of secure coding guidelines tailored to Ethereum smart contract development. These guidelines should cover a range of security-related topics and best practices, enabling developers to write secure and reliable smart contracts.
+
+Instructions:
+
+Introduction to Secure Coding:
+
+Begin the assignment by providing students with an introduction to the importance of secure coding in Ethereum smart contract development. Explain that secure coding guidelines help prevent common vulnerabilities and ensure the reliability of smart contracts.
+Template for Secure Coding Guidelines:
+
+Share a template or framework that students should use to structure their secure coding guidelines. The template may include sections for different aspects of smart contract development, such as input validation, gas optimization, and data handling.
+Development of Secure Coding Guidelines:
+
+Task students with developing a comprehensive set of secure coding guidelines. Each guideline should cover a specific topic related to smart contract development security. Examples of topics to include are:
+Input validation and sanitization.
+Access control and permissioning.
+Gas optimization and efficient contract design.
+Error handling and graceful contract termination.
+Best practices for handling sensitive data.
+Secure contract upgrades and maintenance.
+For each guideline, students should:
+Explain the importance and rationale behind the guideline.
+Provide code examples or pseudocode illustrating both compliant and non-compliant code.
+Include practical recommendations and tips for adhering to the guideline.
+Presentation of Secure Coding Guidelines:
+
+Instruct students to present their secure coding guidelines to the class or in a written report. They should explain each guideline's significance, demonstrate its application through code examples, and discuss potential consequences of non-compliance.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+The comprehensiveness and relevance of the secure coding guidelines.
+Clarity and depth of explanations and rationales for each guideline.
+The quality and relevance of code examples provided.
+The presentation and communication skills demonstrated during the guideline presentation.
+The practicality and applicability of the guidelines to Ethereum smart contract development.

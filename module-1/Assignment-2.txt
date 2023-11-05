@@ -1,0 +1,38 @@
+Blockchain Consensus Mechanisms
+
+Objective: The objective of this assignment is to deepen students' understanding of blockchain technology by exploring different consensus mechanisms commonly used in blockchain networks.
+
+Assignment Description:
+
+Consensus mechanisms are crucial components of blockchain networks, determining how transactions are validated and added to the blockchain. In this assignment, students will research and present information about a specific consensus mechanism, facilitating a class discussion about the various mechanisms and their implications.
+
+Instructions:
+
+Select a Consensus Mechanism:
+
+Provide students with a list of common consensus mechanisms used in blockchain networks, such as Proof of Work (PoW), Proof of Stake (PoS), Delegated Proof of Stake (DPoS), Practical Byzantine Fault Tolerance (PBFT), etc.
+Instruct each student to choose one consensus mechanism from the list. Ensure that there are no overlaps, with each mechanism assigned to at least one student.
+Research the Chosen Consensus Mechanism:
+
+Task students with conducting in-depth research on the selected consensus mechanism.
+They should gather information about how the consensus mechanism works, its key components, the roles of participants, and the process of reaching consensus.
+Create a Presentation or Infographic:
+
+Ask students to create either a presentation or an infographic that explains their chosen consensus mechanism.
+The presentation should cover the mechanism's pros and cons, its strengths, weaknesses, and real-world examples of blockchain networks that use it.
+Present Findings and Engage in Discussion:
+
+Schedule a class presentation session where each student presents their chosen consensus mechanism and its characteristics.
+After each presentation, facilitate a class discussion where students can ask questions and discuss the differences between the mechanisms.
+Encourage students to explore the implications of each consensus mechanism on blockchain scalability, security, energy efficiency, and decentralization.
+Evaluation:
+
+Assess each student's presentation or infographic based on the clarity of the explanation, the depth of research, and their ability to engage in meaningful class discussions.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Depth and accuracy of research on the chosen consensus mechanism.
+Clarity and effectiveness of the presentation or infographic.
+Active participation in the class discussion, including insightful questions and contributions.
+Overall presentation skills and adherence to assignment instructions.

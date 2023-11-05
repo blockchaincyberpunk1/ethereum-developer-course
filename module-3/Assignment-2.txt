@@ -1,0 +1,49 @@
+Truffle Project Initialization
+
+Objective: The objective of this assignment is to familiarize students with the Truffle framework, a widely-used development framework for Ethereum smart contracts. Students will set up a Truffle project, create a smart contract, implement a function, write tests, and interact with the smart contract using the Truffle console.
+
+Assignment Description:
+
+In this assignment, students will initialize a Truffle project for Ethereum smart contract development. They will create a new smart contract within the project, implement a function, and write tests to ensure the function behaves as expected. Additionally, students will use the Truffle console to interact with their smart contract, demonstrating the functionality they've built.
+
+Instructions:
+
+Truffle Project Initialization:
+
+Instruct students to set up a new Truffle project on their local development environment.
+Provide them with guidance on how to install and configure Truffle if they haven't done so already.
+Smart Contract Creation:
+
+Task students with creating a new Solidity smart contract within the Truffle project. The smart contract should include:
+A constructor function or initialization logic.
+At least one public function with a clear purpose (e.g., store data, perform calculations).
+Function Implementation:
+
+Instruct students to implement the logic for the function(s) they defined in the smart contract.
+Test Writing:
+
+Require students to write tests for the function(s) they implemented. They can use Truffle's testing framework (Mocha and Chai) for this purpose.
+The tests should cover different scenarios and ensure the smart contract functions work as intended.
+Truffle Console Interaction:
+
+Guide students to use the Truffle console to:
+Deploy the smart contract to a local Ethereum development network (e.g., Ganache).
+Interact with the deployed smart contract, calling its functions and checking the results.
+Documentation:
+
+Students should document their development process, including:
+Code comments explaining the purpose of the smart contract and its functions.
+Test descriptions that clarify the scenarios being tested and expected outcomes.
+Screenshots or transcripts of interactions with the Truffle console.
+Submission:
+
+Students should submit their project files, including smart contracts, test scripts, and documentation.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Successful setup of a Truffle project.
+Creation and implementation of a smart contract with at least one function.
+Writing of comprehensive tests for the smart contract's functions.
+Correct use of the Truffle console to deploy and interact with the smart contract.
+Quality of documentation, including clear code comments and test descriptions.

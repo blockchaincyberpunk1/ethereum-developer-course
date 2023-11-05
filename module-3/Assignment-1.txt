@@ -1,0 +1,37 @@
+Remix IDE Setup
+
+Objective: The objective of this assignment is to ensure that students have a functional knowledge of Remix, a widely-used online Solidity Integrated Development Environment (IDE).
+
+Assignment Description:
+
+In this assignment, students will be tasked with setting up the Remix IDE environment on their local machines or using the online version. Remix is a powerful tool for Solidity development, and having proficiency in it is essential for Ethereum developers. Students will also deploy a simple Solidity smart contract to their local Ethereum network using Remix, allowing them to practice the deployment process.
+
+Instructions:
+
+Remix IDE Setup:
+
+Instruct students to set up their Remix IDE environment. They can choose to either install Remix on their local machines or use the online version at https://remix.ethereum.org/.
+Smart Contract Template:
+
+Provide students with a basic Solidity smart contract template. This template should include essential Solidity code structures, such as pragma directives, contract declaration, and constructor function.
+Deployment Task:
+
+Task students with deploying the provided smart contract to their local Ethereum network using Remix.
+Instruct them to interact with Remix's built-in development blockchain or connect Remix to a local Ethereum node (e.g., Ganache) if they prefer.
+Documentation:
+
+Require students to document their deployment process. This should include:
+Screenshots of the Remix IDE during the deployment process.
+Descriptions of the steps they followed.
+Any issues or challenges they encountered and how they resolved them.
+Submission:
+
+Students should submit their documentation, which may include screenshots and written explanations, to demonstrate their successful deployment of the smart contract.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Successful setup of the Remix IDE environment.
+Accurate deployment of the provided smart contract.
+Quality of documentation, including clear screenshots and step-by-step explanations.
+Any creative or innovative approaches students used during the deployment process.

@@ -1,0 +1,42 @@
+Solidity Basics
+
+Objective: The objective of this assignment is to ensure that students have a foundational understanding of Solidity, Ethereum's smart contract programming language.
+
+Assignment Description:
+
+In this assignment, students will be tasked with writing a simple smart contract using Solidity. They will start with a basic contract template and then add variables, functions, and comments to demonstrate their understanding of Solidity syntax. Additionally, they will provide comments to explain the purpose and functionality of each part of their smart contract.
+
+Instructions:
+
+Basic Solidity Contract Template:
+
+Provide students with a basic Solidity contract template as a starting point. This template should include the necessary structure to define a contract.
+Smart Contract Development:
+
+Instruct students to use the provided template to write a simple smart contract. The contract should include the following components:
+Variables: Include at least two variables with different data types.
+Functions: Define at least two functions within the contract.
+Comments: Encourage students to add comments throughout their contract code to explain the purpose and functionality of each variable and function.
+Documentation:
+
+Request that students create a separate document (e.g., a README file) where they provide detailed explanations of their smart contract.
+Describe the variables and their significance within the contract.
+Explain the functionality and parameters of each function.
+Use comments within the documentation to make it easy for others to understand their code.
+Testing:
+
+Optionally, students can test their smart contract using a development environment like Remix or Truffle. They should document the results of their tests.
+Submission:
+
+Students should submit both their Solidity smart contract code and the accompanying documentation.
+Evaluation:
+
+Assess each student's smart contract and documentation based on the clarity of the code, correctness, and the depth of explanations provided.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Correctness and functionality of the smart contract.
+Clarity and organization of the code.
+Quality and completeness of the documentation, including comments.
+Adherence to Solidity syntax and best practices.

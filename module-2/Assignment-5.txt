@@ -1,0 +1,45 @@
+Advanced Solidity Concepts
+
+Objective: The objective of this assignment is to introduce students to more advanced Solidity concepts and features, allowing them to deepen their understanding of Ethereum smart contract development.
+
+Assignment Description:
+
+In this assignment, students will be tasked with researching and presenting on one advanced Solidity concept or feature. These concepts may include inheritance, modifiers, events, or error handling. By selecting and presenting on one of these topics, students will gain in-depth knowledge of a specific advanced aspect of Solidity and learn how to apply it effectively in their smart contract development projects.
+
+Instructions:
+
+Topic Selection:
+
+Provide students with a list of advanced Solidity concepts or features (e.g., inheritance, modifiers, events, error handling).
+Instruct each student to choose one topic from the list that they find interesting or relevant to their understanding of Solidity.
+Research and Presentation:
+
+Assign each student the task of conducting thorough research on their chosen topic.
+Require students to create a presentation or tutorial that explains the selected concept or feature in detail.
+Encourage students to use code examples and practical demonstrations to illustrate how the concept works in Solidity.
+Presentation Content:
+
+In their presentations, students should cover the following aspects:
+Explanation of the advanced Solidity concept or feature.
+Use cases and scenarios where this concept is valuable.
+Code examples demonstrating the concept's implementation.
+Any best practices or considerations associated with the topic.
+Peer Review:
+
+Organize a peer review session where each student presents their chosen topic to the class.
+Encourage other students to ask questions and engage in discussions to deepen their understanding of the presented concept.
+Reflection:
+
+After the presentations, ask students to reflect on what they have learned and how they can apply the advanced Solidity concept in their future smart contract development projects.
+Submission:
+
+Students should submit their presentation materials, which may include slides, code examples, and any additional resources used in the presentation.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Depth of understanding of the advanced Solidity concept or feature.
+Clarity and effectiveness of the presentation or tutorial.
+Relevance and practicality of code examples and demonstrations.
+Engagement and participation during the peer review session.
+Reflection on how the knowledge gained can be applied in Ethereum smart contract development.

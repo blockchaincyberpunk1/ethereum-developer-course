@@ -1,0 +1,42 @@
+Decentralized Exchange (DEX) Development
+
+Objective: The objective of this assignment is to provide students with practical experience in building a decentralized exchange (DEX) on the Ethereum blockchain. By developing a simplified DEX smart contract using Solidity and Truffle, students will gain hands-on knowledge of how DEXs work, including token swapping, liquidity pools, and transaction processing.
+
+Assignment Description:
+
+In this assignment, students will have the opportunity to develop a basic decentralized exchange (DEX) smart contract on the Ethereum blockchain. They will use Solidity for contract development and the Truffle framework to facilitate development, testing, and deployment.
+
+Instructions:
+
+DEX Smart Contract Development:
+
+Instruct students to create a simplified DEX smart contract using Solidity.
+The smart contract should include the following basic functionalities:
+Token swapping: Allow users to exchange one ERC-20 token for another.
+Liquidity pools: Enable users to provide liquidity by depositing tokens into the DEX.
+Transaction processing: Implement the logic for executing token swaps and updating liquidity pools.
+Smart Contract Testing:
+
+Task students with writing comprehensive tests for their DEX smart contract using Truffle's testing framework.
+Ensure that tests cover various scenarios, including token swaps, liquidity pool interactions, and edge cases.
+Deployment on a Testnet:
+
+Instruct students to deploy their DEX smart contract on a testnet (e.g., Ropsten, Rinkeby) using Truffle and a testnet-compatible Ethereum wallet.
+Provide clear instructions on how to deploy the smart contract and interact with it on the testnet.
+Documentation and Usage Guide:
+
+Require students to create documentation that includes:
+An overview of the DEX's functionality and purpose.
+Detailed instructions on how to use the DEX, including steps for swapping tokens and providing liquidity.
+Any additional information or considerations for users.
+Submission:
+
+Students should submit their DEX smart contract code, test scripts, deployment details, and documentation following the assignment submission guidelines.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Completion and correctness of the DEX smart contract.
+Quality and coverage of test cases.
+Successful deployment on a testnet.
+Clarity and completeness of the documentation and usage guide.

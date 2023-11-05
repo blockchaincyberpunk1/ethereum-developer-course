@@ -1,0 +1,50 @@
+DApp Architecture Analysis
+
+Objective: The objective of this assignment is to familiarize students with the architecture of decentralized applications (DApps). By analyzing the architecture of a real-world DApp, students will gain insights into how DApps are structured and how various components interact.
+
+Assignment Description:
+
+In this assignment, students will choose a popular decentralized application (DApp) and conduct an in-depth analysis of its architecture. They will create a detailed architectural diagram that visually represents the components of the chosen DApp, including its front-end, smart contract components, and the interactions between them. Additionally, students will explain the purpose and role of each component in the DApp's architecture.
+
+Instructions:
+
+Choose a DApp:
+
+Ask each student to select a popular DApp of their choice. The DApp can be related to finance, gaming, NFTs, or any other category.
+Research and Analysis:
+
+Instruct students to thoroughly research their chosen DApp, including its functionalities, use cases, and technology stack.
+Encourage them to review official documentation, whitepapers, and available resources related to the DApp.
+Architectural Diagram:
+
+Require students to create a detailed architectural diagram of the chosen DApp. The diagram should illustrate the following components:
+Front-end interface (web or mobile).
+Smart contracts (including individual contracts and their relationships).
+Data storage (e.g., on-chain data, off-chain databases).
+User accounts and authentication mechanisms.
+External APIs or oracles, if applicable.
+Any other relevant components specific to the DApp.
+Component Descriptions:
+
+Ask students to provide explanations for each component in their architectural diagram. For each component, they should:
+Describe its purpose and functionality.
+Explain how it interacts with other components.
+Mention any unique features or innovations within the DApp.
+Use Cases and User Experience:
+
+Encourage students to discuss the use cases of the chosen DApp and how its architecture supports these use cases.
+Ask them to consider the user experience and how the architecture contributes to a seamless interaction for users.
+Presentation (Optional):
+
+If students are comfortable with presenting, give them the option to present their architectural analysis to the class, explaining the DApp's architecture and its significance.
+Submission:
+
+Students should submit their architectural diagram, component descriptions, and any additional insights or findings.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Completeness and accuracy of the architectural diagram.
+Clarity and depth of component descriptions.
+Demonstration of understanding of the DApp's architecture and use cases.
+Presentation quality (if applicable).

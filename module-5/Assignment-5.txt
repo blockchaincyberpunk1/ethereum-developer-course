@@ -1,0 +1,45 @@
+Yield Farming and Liquidity Provision in DeFi
+
+Objective: The objective of this assignment is to introduce students to the concepts of yield farming and liquidity provision in the decentralized finance (DeFi) space. By researching and analyzing a specific DeFi protocol that involves liquidity provision and yield farming, students will gain insights into the mechanics, risks, and potential rewards associated with these activities.
+
+Assignment Description:
+
+In this assignment, students will explore the world of yield farming and liquidity provision within the DeFi ecosystem. They will choose a specific DeFi protocol that offers opportunities for users to provide liquidity and participate in yield farming.
+
+Instructions:
+
+Select a DeFi Protocol:
+
+Instruct students to choose a well-known DeFi protocol (e.g., Uniswap, SushiSwap, PancakeSwap) that involves liquidity provision and yield farming.
+Ensure that the selected protocol has a documented history and a user-friendly interface for liquidity providers.
+Research and Analysis:
+
+Task students with conducting in-depth research on the chosen DeFi protocol. They should explore the following aspects:
+How liquidity provision works on the platform.
+Yield farming strategies available to liquidity providers.
+Potential risks associated with liquidity provision and yield farming.
+Historical performance, including APR (Annual Percentage Rate) or APY (Annual Percentage Yield) for liquidity providers.
+Report or Presentation:
+
+Require students to prepare either a report or a presentation summarizing their findings.
+The report or presentation should cover:
+An overview of the selected DeFi protocol.
+Detailed explanations of how liquidity provision and yield farming function within the protocol.
+Discussion of potential risks and rewards for liquidity providers.
+Analysis of historical performance data, including APR or APY trends.
+Critical Analysis:
+
+Encourage students to critically evaluate the protocol's mechanics, potential challenges, and strategies for maximizing returns while minimizing risks.
+Ask students to consider the sustainability and long-term viability of yield farming and liquidity provision on the chosen platform.
+Presentation (Optional):
+
+If students prepare presentations, organize a class presentation session where they can share their findings and insights with peers.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Selection of an appropriate DeFi protocol.
+Depth and accuracy of research and analysis.
+Quality of the report or presentation, including clarity and organization.
+Critical thinking and thoughtful evaluation of risks and rewards.
+Consideration of the protocol's long-term sustainability.

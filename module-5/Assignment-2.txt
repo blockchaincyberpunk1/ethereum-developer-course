@@ -1,0 +1,45 @@
+Ethereum Token Standard Comparison
+
+Objective: The objective of this assignment is to deepen students' understanding of Ethereum token standards and their respective use cases. By researching and comparing ERC-20, ERC-721, and ERC-1155, students will gain insights into the features and suitability of each standard for different applications.
+
+Assignment Description:
+
+In this assignment, students will explore three prominent Ethereum token standards: ERC-20, ERC-721, and ERC-1155. They will conduct research to understand the features, advantages, and typical use cases associated with each standard. Students will then create a comparative analysis document or presentation to showcase their findings and discuss scenarios where each token standard is most appropriate.
+
+Instructions:
+
+Introduction to Token Standards:
+
+Begin by providing students with an overview of Ethereum token standards, including ERC-20, ERC-721, and ERC-1155.
+Explain that each standard has unique characteristics and is suitable for different types of tokens.
+Research and Comparative Analysis:
+
+Instruct students to research and analyze each of the following token standards:
+ERC-20: The most common standard for fungible tokens.
+ERC-721: The standard for non-fungible tokens (NFTs), representing unique digital assets.
+ERC-1155: A versatile standard supporting both fungible and non-fungible tokens within a single contract.
+Key Features and Characteristics:
+
+For each token standard, students should identify and describe:
+Key features and attributes.
+Advantages and disadvantages.
+Examples of tokens or projects that have utilized the standard.
+Use Cases and Scenarios:
+
+Task students with discussing scenarios and use cases where each token standard is most appropriate.
+Encourage them to consider real-world examples and industries that benefit from each standard.
+Presentation or Document:
+
+Students can choose to create either a comparative analysis document (e.g., report or essay) or a presentation (e.g., slides) to present their findings.
+The presentation or document should be well-structured, organized, and include visuals or diagrams if relevant.
+Submission:
+
+Students should submit their comparative analysis document or presentation as per the assignment submission guidelines.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Thoroughness of research and analysis for each token standard.
+Clarity of presentation or document, including well-structured content and visuals.
+Insightful discussion of use cases and scenarios where each token standard is appropriate.
+Overall quality of the comparative analysis and adherence to assignment guidelines.

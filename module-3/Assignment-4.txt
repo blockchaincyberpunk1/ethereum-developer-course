@@ -1,0 +1,39 @@
+Debugging Solidity Contracts
+
+Objective: The objective of this assignment is to develop students' debugging skills for Ethereum smart contracts. Students will be presented with a buggy Solidity contract containing deliberate errors. Their task is to identify and debug the issues in the contract using Remix or Truffle's debugging tools. This assignment will help students gain practical experience in locating and resolving common smart contract bugs.
+
+Assignment Description:
+
+In this assignment, students will be given a Solidity smart contract that deliberately contains errors, such as syntax errors, logical flaws, or vulnerabilities. Their objective is to identify and debug these issues using Ethereum development tools like Remix or Truffle's debugging capabilities. Debugging is a crucial skill for Ethereum developers, as it ensures the security and correctness of smart contracts.
+
+Instructions:
+
+Buggy Solidity Contract:
+
+Provide students with a Solidity smart contract that intentionally contains multiple errors. These errors can include syntax errors, logical issues, or security vulnerabilities.
+Make sure to document the deliberate errors in the contract for reference.
+Debugging Task:
+
+Instruct students to use Remix or Truffle's debugging tools to identify and fix the errors in the contract.
+Encourage them to employ debugging techniques, set breakpoints, and step through the contract's execution to pinpoint the issues.
+Documentation:
+
+Ask students to document their debugging process, including:
+A description of the errors they found in the contract.
+The steps they took to identify and fix each error.
+Any tools or commands used during debugging.
+The corrected contract with annotations explaining the changes made.
+Test Cases (Optional):
+
+If the errors in the contract were related to functionality, require students to write test cases to validate that the contract now works correctly after debugging.
+Submission:
+
+Students should submit their documentation, including details of the debugging process and the corrected contract.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Accuracy and completeness of debugging efforts.
+Correct identification and resolution of contract errors.
+Clarity and comprehensiveness of documentation, including annotations in the corrected contract.
+If applicable, successful validation of contract functionality through test cases.

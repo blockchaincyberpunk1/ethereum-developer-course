@@ -1,0 +1,47 @@
+Smart Contract Testing
+
+Objective: The objective of this assignment is to reinforce students' knowledge of smart contract testing using Ethereum development tools, specifically the Truffle testing framework. Students will be provided with a set of Solidity smart contracts and will be tasked with writing comprehensive test cases for these contracts, running the tests, and documenting their results.
+
+Assignment Description:
+
+In this assignment, students will work with a set of provided Solidity smart contracts, each containing specific functions. Their task is to write comprehensive test cases for these contracts using the Truffle testing framework. This assignment will emphasize the importance of thorough testing in the development of Ethereum smart contracts.
+
+Instructions:
+
+Smart Contract Testing:
+
+Provide students with a set of Solidity smart contracts. Each contract should contain specific functions with varying complexities.
+Instruct students to write detailed test cases for the functions within each smart contract. Emphasize the importance of covering different scenarios and edge cases in their tests.
+Truffle Testing Framework:
+
+Remind students to use the Truffle testing framework, which includes Mocha for test structure and Chai for assertions.
+Encourage them to use Truffle's suite of testing functions and utilities to interact with smart contracts and simulate different scenarios.
+Test Coverage:
+
+Require students to ensure that their test cases cover a wide range of scenarios, including normal use cases, boundary conditions, and potential error cases.
+Instruct them to include assertions that verify the correctness of the smart contract's behavior.
+Debugging and Adjustments:
+
+Ask students to document any debugging efforts or adjustments they had to make to the smart contract or test cases to ensure they work as intended.
+Test Execution:
+
+Instruct students to run their test suite using Truffle and record the results, including any test failures or errors.
+If there are test failures, they should investigate the issues and make necessary adjustments to their contracts or test cases.
+Documentation:
+
+Students should document their testing process, including:
+A description of the smart contracts and their functions.
+Detailed test case descriptions, including the scenarios being tested.
+Any debugging efforts and adjustments made.
+The outcomes of the test suite execution, including any test failures or errors.
+Submission:
+
+Students should submit their test scripts, documentation, and a summary of the test results.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Completeness and comprehensiveness of the test cases.
+Correct use of Truffle's testing framework.
+Documentation quality, including clear test case descriptions and debugging efforts.
+Successful execution of the test suite and resolution of any test failures.

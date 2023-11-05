@@ -1,0 +1,33 @@
+Vulnerability Identification
+
+Objective: The objective of this assignment is to provide students with practical experience in identifying security vulnerabilities in smart contracts. By reviewing and analyzing code with intentional vulnerabilities, students will learn to recognize and understand common pitfalls in Ethereum smart contract development.
+
+Assignment Description:
+
+In this assignment, students will be presented with a smart contract code snippet (or multiple snippets) containing intentional vulnerabilities. Their task is to thoroughly review the provided code and identify the security vulnerabilities present in the contract(s). Subsequently, they will create a report or presentation that lists the identified vulnerabilities and suggests potential fixes or mitigation strategies.
+
+Instructions:
+
+Review the Provided Code:
+
+Provide students with the smart contract code snippets containing intentional vulnerabilities. These vulnerabilities may include common issues such as reentrancy, unchecked user inputs, or improper access control.
+Vulnerability Identification:
+
+Task students with carefully reviewing the code to identify any security vulnerabilities present. They should be thorough in their analysis and consider potential attack vectors.
+Report or Presentation:
+
+Instruct students to create a comprehensive report or presentation that includes the following:
+A list of the identified vulnerabilities with clear explanations of each one.
+A brief description of the potential risks associated with each vulnerability.
+Suggestions for potential fixes, code modifications, or mitigation strategies for each vulnerability.
+Code snippets or pseudocode illustrating how the vulnerabilities can be addressed or mitigated.
+Any additional insights or observations related to smart contract security best practices.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Accuracy and completeness of vulnerability identification.
+Clarity and depth of explanations for each identified vulnerability.
+Quality and feasibility of suggested fixes or mitigation strategies.
+Organization and presentation of the report or presentation.
+Demonstration of understanding of Ethereum smart contract security concepts.

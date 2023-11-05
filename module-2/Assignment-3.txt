@@ -1,0 +1,34 @@
+Control Structures in Solidity
+
+Objective: The objective of this assignment is to familiarize students with control structures in Solidity, such as loops and conditionals, and assess their ability to create logical and efficient smart contract logic.
+
+Assignment Description:
+
+In this assignment, students will be presented with a series of programming challenges that require them to utilize control structures like loops and conditionals in Solidity. By solving these challenges, students will gain hands-on experience in writing smart contract logic using these control structures.
+
+Instructions:
+
+Challenge Descriptions:
+
+Provide students with a set of programming challenges that involve control structures in Solidity. These challenges can vary in complexity and may include tasks like iterating through arrays, implementing conditional logic, or managing data structures.
+Solidity Code Solutions:
+
+Instruct students to write Solidity code solutions for each challenge. They should create separate functions or smart contracts to address each challenge.
+Explanation and Comments:
+
+Encourage students to provide comments in their code to explain their thought process, the purpose of specific code segments, and any considerations they made while solving the challenges.
+Students should document their code clearly to make it understandable to others.
+Testing:
+
+Optionally, students can test their code solutions using a Solidity development environment like Remix or Truffle. They should ensure that their code produces the expected results for various inputs.
+Submission:
+
+Students should submit their Solidity code solutions along with the comments and explanations they have added to the code.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Correctness and efficiency of the Solidity code solutions.
+Clarity and quality of comments and explanations.
+Adherence to best practices in smart contract development.
+Ability to solve a variety of challenges using control structures.

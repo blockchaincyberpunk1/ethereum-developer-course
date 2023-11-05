@@ -1,0 +1,42 @@
+Secure Smart Contract Design
+
+Objective: The objective of this assignment is to reinforce students' understanding of secure smart contract design principles. By applying best practices, students will learn how to create Ethereum smart contracts that are less susceptible to vulnerabilities.
+
+Assignment Description:
+
+In this assignment, students will design a simple Ethereum smart contract with specific functionality, such as a token contract or a voting contract. Their task is to implement the contract while adhering to established security best practices, including input validation, proper access control, and avoiding state-changing calls after transfers.
+
+Instructions:
+
+Select a Contract Functionality:
+
+Provide students with a choice of contract functionalities, such as a token contract or a voting contract.
+Instruct them to choose one functionality to implement for this assignment.
+Secure Smart Contract Design:
+
+Task students with designing and coding the smart contract while adhering to the following security best practices:
+Input validation: Ensure that inputs are validated to prevent unexpected behavior.
+Proper access control: Implement appropriate access control mechanisms to restrict who can execute specific functions.
+Avoid state-changing calls after transfers: Prevent any state-changing operations after asset transfers to avoid reentrancy attacks.
+Implement fallback functions and error handling: Include fallback functions and error-handling mechanisms to gracefully handle unexpected situations.
+Report:
+
+Require students to write a comprehensive report that includes the following:
+A detailed explanation of the chosen contract functionality and its purpose.
+A clear description of the security best practices applied in the smart contract design.
+Code snippets highlighting how each best practice was implemented.
+A rationale for why each security measure was chosen and its importance.
+Any additional security considerations specific to the chosen contract functionality.
+Testing and Deployment (Optional):
+
+Optionally, students can deploy their smart contracts on a local Ethereum testnet (e.g., Ganache) and test the functionality.
+If they choose to deploy, request them to include evidence of testing in their report.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Adherence to security best practices in smart contract design.
+Quality and clarity of the report, including explanations and code snippets.
+Understanding of the rationale behind chosen security measures.
+Application of input validation, access control, and state-changing call prevention.
+Optional testing and deployment (if conducted) and evidence of testing.

@@ -1,0 +1,40 @@
+Ethereum Improvement Proposals (EIPs) Analysis
+
+Objective: The objective of this assignment is to familiarize students with Ethereum Improvement Proposals (EIPs) and their significance in the development of the Ethereum network. By analyzing a specific EIP, students will gain insights into the technical details and potential impact of proposed changes.
+
+Assignment Description:
+
+In this assignment, students will choose a recent Ethereum Improvement Proposal (EIP) from the official EIP repository and perform a detailed analysis of the selected proposal. They will examine the EIP's purpose, technical aspects, and its potential implications for the Ethereum network. Students will prepare a presentation or report summarizing their findings and explaining how the EIP contributes to Ethereum's ongoing development.
+
+Instructions:
+
+Select an EIP:
+
+Instruct students to visit the official Ethereum Improvement Proposals (EIPs) repository at https://eips.ethereum.org/.
+Have students choose one recent EIP (preferably one from the last six months) that interests them or aligns with their focus area within Ethereum development.
+Analyze the Selected EIP:
+
+Task students with thoroughly analyzing the chosen EIP. They should consider the following aspects:
+Purpose: What problem or improvement is the EIP addressing? What is its main objective?
+Technical Details: Describe the technical changes proposed by the EIP. Explain how these changes would be implemented and their potential impact on the Ethereum network.
+Rationale: Why is this EIP necessary? What benefits or improvements will it bring to the Ethereum ecosystem?
+Dependencies: Are there any dependencies on other EIPs or upgrades required for the successful implementation of this proposal?
+Prepare a Presentation or Report:
+
+Have students create either a presentation or a detailed report summarizing their analysis of the selected EIP.
+Encourage students to use visuals, diagrams, or code snippets to illustrate key points.
+Explain Contribution to Ethereum:
+
+Instruct students to explain how the selected EIP contributes to the ongoing development and evolution of the Ethereum network.
+Discuss the potential benefits, challenges, or considerations associated with the proposal.
+Presentation or Report Submission:
+
+Students should submit their presentations or reports as per the assignment submission guidelines.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Comprehensive analysis of the selected EIP, covering its purpose, technical details, rationale, and dependencies.
+Clarity of presentation or report, including the effective use of visuals or code snippets.
+Insightful discussion on how the EIP contributes to Ethereum's development.
+Overall quality of the content and adherence to assignment guidelines.

@@ -1,0 +1,37 @@
+Ethereum and Smart Contracts
+
+Objective: The objective of this assignment is to familiarize students with the concept of smart contracts and their role in the Ethereum ecosystem.
+
+Assignment Description:
+
+Smart contracts are a fundamental feature of Ethereum, enabling decentralized and automated execution of code on the blockchain. In this assignment, students will dive into the basics of Ethereum's smart contract functionality, understand their purpose, and explore potential use cases.
+
+Instructions:
+
+Resource Selection:
+
+Assign students to read Ethereum's Yellow Paper or provide an accessible resource or guide that explains the fundamentals of Ethereum's smart contract functionality.
+Ensure that the resource covers the key principles and concepts related to smart contracts on the Ethereum platform.
+Summarize Smart Contract Principles:
+
+After reading the assigned resource, students should create a summary that highlights the following aspects of smart contracts:
+The purpose and role of smart contracts within the Ethereum ecosystem.
+How smart contracts are executed and validated on the Ethereum blockchain.
+The significance of Ethereum's decentralized virtual machine (EVM) in the execution of smart contracts.
+Identify and Discuss Use Cases:
+
+Instruct students to brainstorm and identify potential use cases for smart contracts on the Ethereum platform.
+Ask them to select one use case and discuss it in detail. This should include how a smart contract could address real-world problems, automate processes, or create new opportunities.
+Assignment Submission:
+
+Students should submit their summaries and use case discussions in written form or as presentations, depending on the preferred format.
+Evaluation:
+
+Assess each student's submission based on the clarity of their summary, the depth of their understanding of smart contracts, and the relevance and feasibility of their chosen use case.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+Clarity and accuracy of the summary of smart contract principles.
+Depth and relevance of the chosen use case for smart contracts.
+Ability to articulate how smart contracts can address real-world problems or enhance processes.

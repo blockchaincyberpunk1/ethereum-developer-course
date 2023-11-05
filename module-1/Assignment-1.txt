@@ -1,0 +1,40 @@
+Ethereum Overview
+
+Objective: The objective of this assignment is to provide students with a fundamental understanding of Ethereum, its history, objectives, and significance in the blockchain ecosystem.
+
+Assignment Description:
+
+Ethereum is one of the most prominent blockchain platforms, known for its smart contract capabilities and decentralized applications (DApps). This assignment aims to ensure that students have a solid foundation in Ethereum by researching and summarizing key information about the platform.
+
+Instructions:
+
+Research Ethereum's History and Founder:
+
+Instruct students to research and write a concise overview of Ethereum's history, including when it was founded and the key milestones in its development.
+Ask them to provide information about Ethereum's founder, Vitalik Buterin, including his background and his role in creating Ethereum.
+Ethereum's Objectives and Advantages:
+
+Task students with explaining Ethereum's primary objectives as a blockchain platform. What problems or limitations was Ethereum designed to address?
+Encourage them to highlight the advantages of Ethereum's decentralized and programmable nature compared to traditional centralized systems.
+Examples of Decentralized Applications (DApps):
+
+Instruct students to provide examples of notable decentralized applications (DApps) that are built on the Ethereum platform.
+Ask them to briefly describe the purpose and functionality of each DApp, showcasing the diverse range of applications Ethereum supports.
+Clarity and Conciseness:
+
+Emphasize the importance of clarity and conciseness in their write-up. The overview should be easily understandable by someone new to blockchain technology.
+Citations and References:
+
+Encourage students to cite their sources and provide references for the information they include in their overview.
+Presentation:
+
+Specify any formatting or presentation guidelines for the assignment, such as font size, margins, or document length.
+Grading Criteria:
+
+This assignment will be evaluated based on the following criteria:
+
+Accuracy and completeness of the historical overview of Ethereum.
+Clarity in explaining Ethereum's primary objectives and advantages.
+Appropriateness and relevance of the chosen examples of Ethereum-based DApps.
+Proper citation of sources and references.
+Overall presentation and adherence to formatting guidelines.

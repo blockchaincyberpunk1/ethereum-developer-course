@@ -1,0 +1,41 @@
+Open-Source Contribution
+
+Objective: The objective of this assignment is to encourage students to actively contribute to open-source Ethereum projects, fostering collaboration, and enhancing their practical development skills.
+
+Assignment Description:
+
+In this assignment, students will actively contribute to open-source Ethereum projects by selecting one project or repository from a provided list (or they can choose their own) and making a meaningful contribution. This contribution can take the form of bug fixes, documentation improvements, code enhancements, or the implementation of new features.
+
+Instructions:
+
+Project Selection:
+
+Provide students with a list of open-source Ethereum projects or repositories that welcome contributions. Alternatively, allow them to choose a project of their own if they have a specific interest.
+Encourage students to explore the projects' README files, contributing guidelines, and issues to identify areas where their skills and interests align with the project's needs.
+Contributing to the Project:
+
+Instruct students to:
+Fork the selected project's repository to create their own copy.
+Clone their forked repository to their local development environment.
+Select a specific task or issue to work on, ensuring it aligns with their skill level and the project's guidelines.
+Implement the contribution, following best practices and adhering to the project's coding standards.
+Write clean and well-documented code.
+Test their changes thoroughly to ensure they do not introduce new issues.
+Pull Request (PR) Submission:
+
+Task students with creating a pull request (PR) to submit their contribution to the project's maintainers.
+Ensure they follow the project's PR template and guidelines for submission.
+Students should actively participate in discussions related to their PR and be prepared to make necessary adjustments based on feedback from maintainers and the community.
+Reflection Report:
+
+After their contribution is accepted and merged or after the PR review process is complete, students should write a reflection report.
+The report should describe the contribution they made, the challenges they faced during the process, and how they addressed those challenges.
+Students should also reflect on what they learned from this open-source contribution experience, how it benefited their development skills, and any insights they gained about Ethereum development.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+The significance and quality of the contribution made to the open-source Ethereum project.
+Adherence to project guidelines and coding standards.
+Effective participation in discussions and responsiveness to feedback during the PR review process.
+The depth and relevance of insights gained from the open-source contribution experience as described in the reflection report.

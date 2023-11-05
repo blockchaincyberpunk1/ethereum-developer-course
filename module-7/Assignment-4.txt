@@ -1,0 +1,39 @@
+Ethereum Trends Analysis
+
+Objective: The objective of this assignment is to promote self-learning and trend analysis within the Ethereum ecosystem, enabling students to stay up-to-date with the latest developments and innovations.
+
+Assignment Description:
+
+In this assignment, students will have the opportunity to explore and analyze recent articles, blog posts, or whitepapers related to Ethereum trends and innovations. By critically assessing these resources, they will gain insights into emerging technologies and developments within the Ethereum community.
+
+Instructions:
+
+Resource Selection:
+
+Provide students with a curated collection of recent articles, blog posts, or whitepapers related to Ethereum trends and innovations. Ensure that the resources cover a variety of topics within the Ethereum ecosystem, such as layer 2 scaling solutions, Ethereum 2.0 upgrades, DeFi developments, NFT trends, and more.
+Instruct students to choose a minimum of two resources to analyze. They should select resources that align with their interests and curiosity about the Ethereum ecosystem.
+Resource Analysis:
+
+For each selected resource, students should read it thoroughly and critically assess its content.
+Encourage students to take notes on key takeaways, innovative ideas, potential disruptions, or trends mentioned in the resource.
+Prompt them to identify any areas of further research or questions that arise from their analysis.
+Summary Report or Presentation:
+
+Task students with creating a summary report or presentation that synthesizes their findings from the selected resources.
+For each resource analyzed, they should include:
+A brief summary of the resource's main points.
+Identification of trends, innovations, or key insights highlighted in the resource.
+Reflections on the potential impact of these trends on the Ethereum ecosystem.
+Any questions or areas that require further investigation based on their analysis.
+Discussion or Presentation:
+
+Depending on the class format, consider having students present their findings to the class or engage in a group discussion about the Ethereum trends they identified.
+This allows students to share their insights and engage in meaningful discussions with peers.
+Grading Criteria:
+
+The assignment will be evaluated based on the following criteria:
+
+The quality of the summary report or presentation, including the depth of analysis.
+The ability to identify and articulate trends and innovations within the Ethereum ecosystem.
+Critical thinking and reflections on the potential impact of identified trends.
+Active participation in class discussions or presentations if applicable.
